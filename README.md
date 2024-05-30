@@ -195,14 +195,6 @@ showModal({
 });
 ```
 
-### Closing Toast and Modal
-To manually close a toast or modal, use the following functions:
-
-```javascript
-closeToast(document.getElementById('uniqueID'));
-closeModal(document.getElementById('uniqueID'));
-```
-
 ## JSON Object for Styling
 Styling options can be customized using the styles object:
 
