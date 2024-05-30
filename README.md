@@ -1,10 +1,9 @@
 # Ninox-Modal-Plugin
-Dieses Plugin ermöglicht es Nutzern, Modals und Toasts dynamisch einblenden zu lassen.
 
 ## German
 
 ## Übersicht
-Dieses Plugin bietet Funktionen für dynamische Toast-Benachrichtigungen und modale Pop-ups in einer Webanwendung. 
+Dieses Plugin ermöglicht es Nutzern, Modals und Toasts dynamisch einblenden zu lassen.
 
 ## Funktionen
 
